@@ -1,3 +1,11 @@
-# Example InSpec Profile
+# Git Custom Resource with Testing
 
-This example shows the implementation of an InSpec profile.
+## Install and Test
+
+Install is installed.
+
+```shell
+$ git checkout REPO DIRECTORY
+$ cd DIRECTORY
+$ /opt/inspec/embedded/bin/rspec
+```
